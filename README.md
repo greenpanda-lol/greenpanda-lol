@@ -12,7 +12,7 @@ _- Python Játék @unknown közreműködésével_
 _- Operációs rendszer szimuláció, a ChatGPT rendszerén._
 
 ## Kapcsolat 🌐
-[![hambohambi.hu](https://img.shields.io/badge/hambohambi-web-green?labelColor=orange&style=flat&link=https://hambohambi.hu)](hambohambi.hu)
-[![hambohambi.hu](https://img.shields.io/badge/hambohambi-saj%C3%A1t%20oldal-blue?labelColor=orange&style=flat&link=https://hambohambi.hu/greenpanda)](hambohambi.hu)
+[![hambohambi.hu](https://img.shields.io/badge/hambohambi-web-green?labelColor=orange&style=flat&link=hambohambi.hu)](https://hambohambi.hu)
+[![hambohambi.hu](https://img.shields.io/badge/hambohambi-saj%C3%A1t%20oldal-blue?labelColor=orange&style=flat&link=hambohambi.hu/greenpanda)](https://hambohambi.hu)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/greenpanda_lol/)
