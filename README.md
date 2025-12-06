@@ -6,7 +6,7 @@
 - [🍔 hambohambi.hu 2.0](https://github.com/greenpanda-lol/hambohambi)
 _- A hambohambi.hu teljes átalakítása. Jelenleg még nem elérhető nyilvánosan._
 
-- [🎭 Pécs Roleplay](https://github.com/greenpanda-lol/pecsrp)
+- [🎭 Pécs Roleplay](https://pecsrp.hu)
 _- Egy privát minecraft roleplay szervernek a weboldala. Ha szeretnél jelentkezni, akkor [kattints ide!](https://dc.pecsrp.hu)._
 
 ## 🧠 Amihez értek
