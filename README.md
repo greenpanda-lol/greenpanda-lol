@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF736&width=435&lines=Szia!+Greenpanda+vagyok.;Szeretem+a+pand%C3%A1kat.;A+weboldalam%3A+hambohambi.hu)](https://git.io/typing-svg)
 
 ## 💻 Jelenleg ezeken dolgozom
-- [🏪 ShopGame](https://github.com/greenpanda-lol/ShopGame)
-_- Python Játék @unknown közreműködésével_
+- [🍔 hambohambi.hu 2.0](https://github.com/greenpanda-lol/hambohambi)
+_- A hambohambi.hu teljes átalakítása. Jelenleg még nem elérhető nyilvánosan._
 
-- [🤖 GPTOS](https://github.com/greenpanda-lol/GPTOS)
-_- Operációs rendszer szimuláció, a ChatGPT rendszerén._
+- [🎭 Pécs Roleplay](https://github.com/greenpanda-lol/pecsrp)
+_- Egy privát minecraft roleplay szervernek a weboldala. Ha szeretnél jelentkezni, akkor [kattints ide!](https://dc.pecsrp.hu)._
 
 ## 🧠 Amihez értek
 
